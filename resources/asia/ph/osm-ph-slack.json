@@ -1,0 +1,11 @@
+{
+  "id": "OSM-PH-Slack",
+  "featureId": "philippines_full",
+  "type": "slack",
+  "name": "OSMPH Slack",
+  "description": "OSM Philippines community Slack team",
+  "url": "https://osmph.slack.com/",
+  "signupUrl": "https://osmph-chat.herokuapp.com/",
+  "countryCodes": ["ph"],
+  "contacts": [{"name": "OSMPH Core Group", "email": "osm.pilipinas@gmail.com"}]
+}

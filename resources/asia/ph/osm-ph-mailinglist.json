@@ -1,0 +1,10 @@
+{
+  "id": "OSM-PH-mailinglist",
+  "featureId": "philippines_full",
+  "type": "mailinglist",
+  "name": "talk-ph Mailing List",
+  "description": "OSM Philippines community mailing list",
+  "url": "https://lists.openstreetmap.org/pipermail/talk-ph/",
+  "countryCodes": ["ph"],
+  "contacts": [{"name": "OSMPH Core Group", "email": "osm.pilipinas@gmail.com"}]
+}

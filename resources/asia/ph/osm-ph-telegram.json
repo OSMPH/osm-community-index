@@ -1,0 +1,10 @@
+{
+  "id": "OSM-PH-Telegram",
+  "featureId": "philippines_full",
+  "type": "telegram",
+  "name": "OSMph LoCo",
+  "description": "OSM Philippines Telegram local community",
+  "url": "https://t.me/osmph",
+  "countryCodes": ["ph"],
+  "contacts": [{"name": "OSMPH Core Group", "email": "osm.pilipinas@gmail.com"}]
+}

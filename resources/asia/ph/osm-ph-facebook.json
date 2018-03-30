@@ -1,0 +1,10 @@
+{
+  "id": "OSM-PH-Facebook",
+  "featureId": "philippines_full",
+  "type": "facebook",
+  "name": "OSM Philippines Community",
+  "description": "OSM Philippines community Facebook group",
+  "url": "https://www.facebook.com/groups/osmph/",
+  "countryCodes": ["ph"],
+  "contacts": [{"name": "OSMPH Core Group", "email": "osm.pilipinas@gmail.com"}]
+}

@@ -3,6 +3,18 @@ en:
     name: OpenStreetMap India - Participatory neighborhood mapping
     description: Improve OpenStreetMap in India
     extendedDescription: 'Mapping in India? Have questions, want to connect with the community here? Join us at {Url}. All are welcome!'
+  OSM-PH-Facebook:
+    name: OSM Philippines Community
+    description: OSM Philippines community Facebook group
+  OSM-PH-mailinglist:
+    name: talk-ph Mailing List
+    description: OSM Philippines community mailing list
+  OSM-PH-Slack:
+    name: OSMPH Slack
+    description: OSM Philippines community Slack team
+  OSM-PH-Telegram:
+    name: OSMph LoCo
+    description: OSM Philippines Telegram local community
   Bay-Area-OpenStreetMappers:
     name: Bay Area OpenStreetMappers
     description: Improve OpenStreetMap in the Bay Area
